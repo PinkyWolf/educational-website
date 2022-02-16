@@ -1,0 +1,8 @@
+@import url(/assets/css/variable.css);
+
+.container {
+  background: var(--white);
+  min-width: 1440px;
+  margin: auto;
+  overflow: hidden;
+}
